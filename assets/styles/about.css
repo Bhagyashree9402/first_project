@@ -1,0 +1,22 @@
+.about{
+    background-color:aliceblue;
+    height:92vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    height: 400px;
+    width: 400px;
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+
+.card-header
+{
+height: 100px;
+background-color:#34495e;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
